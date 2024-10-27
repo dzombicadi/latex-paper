@@ -6,7 +6,7 @@ This repository contains a [LaTeX](https://github.com/latex3/latex2e) template t
 
 The template is documented at https://pascalmichaillat.org/d2/.
 
-## Illustrations
+## Illustration
 
 + The paper produced by the template can be viewed at https://pascalmichaillat.org/d2.pdf.
 + The online appendix produced by the template can be viewed at https://pascalmichaillat.org/d2a.pdf.
@@ -49,7 +49,7 @@ The `arXiv` folder illustrates how the template should be prepared for submissio
 
 The template was developed, tested, and validated on a Mac with the MacTeX-2023 distribution. 
 
-While the template should also work on other operating systems and with other LaTeX distributions, compatibility cannot be guaranteed. Users on Windows or Linux systems, or those using different LaTeX distributions, may need to make minor adjustments. Please report any compatibility issues or bugs you encounter to help improve cross-platform support.
+While the template should also work on other operating systems and with other LaTeX distributions, compatibility cannot be guaranteed. Users on Windows or Linux systems, or those using different LaTeX distributions, may need to make minor adjustments. [Please report](https://github.com/pmichaillat/latex-paper/issues) any compatibility issues or bugs to help improve cross-platform support.
 
 ## License
 
@@ -57,10 +57,10 @@ The content of this repository is licensed under the terms of the MIT License.
 
 ## Real-world implementations
 
-+ [u* = √uv](https://arxiv.org/pdf/2206.13012v2.pdf) ([source code](https://arxiv.org/e-print/2206.13012v2))
-+ [Moen Meets Rotemberg: An Earthly Model of the Divine Coincidence](https://arxiv.org/pdf/2401.12475v1.pdf) ([source code](https://arxiv.org/e-print/2401.12475v1))
-+ [Modeling the Displacement of Native Workers by Immigrants](https://arxiv.org/pdf/2303.13319v2.pdf) ([source code](https://arxiv.org/e-print/2303.13319v2))
-+ [Critical Values Robust to P-hacking](https://arxiv.org/pdf/2005.04141v7.pdf) ([source code](https://arxiv.org/e-print/2005.04141v7))
++ [Has the Recession Started?](https://arxiv.org/pdf/2408.05856v2.pdf) ([source code](https://arxiv.org/src/2408.05856))
++ [Beveridgean Phillips Curve](https://arxiv.org/pdf/2401.12475v2.pdf) ([source code](https://arxiv.org/src/2401.12475v2))
++ [Modeling Migration-Induced Unemployment](https://arxiv.org/pdf/2303.13319v4.pdf) ([source code](https://arxiv.org/src/2303.13319v4))
++ [Critical Values Robust to P-hacking](https://arxiv.org/pdf/2005.04141v7.pdf) ([source code](https://arxiv.org/src/2005.04141v7))
 
 ## Related resources
 
