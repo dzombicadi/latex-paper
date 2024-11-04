@@ -7,14 +7,14 @@ Eyster, Erik, Kristof Madarasz, and Pascal Michaillat. 2021. ``Pricing under
   (3):  1853--1898. \url{https://doi.org/10.1093/jeea/jvaa041}.
 
 \harvarditem[Landais, Michaillat, and Saez]{Landais, Michaillat, and
-  Saez}{2018a}{LMS18b}
+  Saez}{2018a}{LMS18a}
 Landais, Camille, Pascal Michaillat, and Emmanuel Saez. 2018a. ``A
   Macroeconomic Approach to Optimal Unemployment Insurance: Applications.''
   \textit{American Economic Journal: Economic Policy} 10 (2):  182--216.
   \url{https://doi.org/10.1257/pol.20160462}.
 
 \harvarditem[Landais, Michaillat, and Saez]{Landais, Michaillat, and
-  Saez}{2018b}{LMS18a}
+  Saez}{2018b}{LMS18b}
 Landais, Camille, Pascal Michaillat, and Emmanuel Saez. 2018b. ``A
   Macroeconomic Approach to Optimal Unemployment Insurance: Theory.''
   \textit{American Economic Journal: Economic Policy} 10 (2):  152--181.
@@ -56,8 +56,10 @@ Michaillat, Pascal, and Emmanuel Saez. 2021b. ``Resolving {N}ew {K}eynesian
   and Statistics} 103 (2):  197--215.
   \url{https://doi.org/10.1162/rest_a_00893}.
 
-\harvarditem[Michaillat and Saez]{Michaillat and Saez}{2024}{MS23}
-Michaillat, Pascal, and Emmanuel Saez. 2024. ``$u^* = \sqrt{uv}$.''
-  arXiv:2206.13012. \url{https://doi.org/10.48550/arXiv.2206.13012}.
+\harvarditem[Michaillat and Saez]{Michaillat and Saez}{2024}{MS24}
+Michaillat, Pascal, and Emmanuel Saez. 2024. ``$u^* = \sqrt{uv}:$ The
+  Full-Employment Rate of Unemployment in the United States.''
+  \textit{Brookings Papers on Economic Activity} 55 (2).
+  \url{https://www.brookings.edu/events/bpea-fall-2024-conference/}.
 
 \end{thebibliography}
