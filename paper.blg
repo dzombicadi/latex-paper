@@ -1,0 +1,78 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+The style file: bibliography.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: bibliography.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You can't pop an empty literal stack for entry EMM21
+while executing---line 6215 of file bibliography.bst
+You can't pop an empty literal stack for entry LMS18a
+while executing---line 6215 of file bibliography.bst
+You can't pop an empty literal stack for entry LMS18b
+while executing---line 6215 of file bibliography.bst
+Warning--there is no volume, number, and pages in MM24
+You can't pop an empty literal stack for entry MM24
+while executing---line 6215 of file bibliography.bst
+You can't pop an empty literal stack for entry M12
+while executing---line 6215 of file bibliography.bst
+You can't pop an empty literal stack for entry M14
+while executing---line 6215 of file bibliography.bst
+You can't pop an empty literal stack for entry MS15
+while executing---line 6215 of file bibliography.bst
+You can't pop an empty literal stack for entry MS19
+while executing---line 6215 of file bibliography.bst
+You can't pop an empty literal stack for entry MS21b
+while executing---line 6215 of file bibliography.bst
+You can't pop an empty literal stack for entry MS21a
+while executing---line 6215 of file bibliography.bst
+You can't pop an empty literal stack for entry MS24
+while executing---line 6215 of file bibliography.bst
+You've used 11 entries,
+            6382 wiz_defined-function locations,
+            1282 strings with 10154 characters,
+and the built_in function-call counts, 12280 in all, are:
+= -- 1934
+> -- 439
+< -- 31
++ -- 157
+- -- 138
+* -- 771
+:= -- 1558
+add.period$ -- 11
+call.type$ -- 11
+change.case$ -- 90
+chr.to.int$ -- 9
+cite$ -- 12
+duplicate$ -- 387
+empty$ -- 593
+format.name$ -- 138
+if$ -- 3016
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 36
+num.names$ -- 88
+pop$ -- 170
+preamble$ -- 1
+purify$ -- 90
+quote$ -- 0
+skip$ -- 869
+stack$ -- 0
+substring$ -- 1162
+swap$ -- 91
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 198
+warning$ -- 1
+while$ -- 91
+width$ -- 0
+write$ -- 177
+(There were 11 error messages)
