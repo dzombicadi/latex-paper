@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.8)  11 DEC 2024 21:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.8)  12 DEC 2024 21:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1214,6 +1214,21 @@ Package pdftex.def Info: ProcenatPobjeda.png  used on input line 313.
 (pdftex.def)             Requested size: 390.2544pt x 260.16959pt.
 
 
+[9 <./ProcenatPobjeda.png>]
+<Teren.png, id=252, 433.62pt x 433.62pt>
+File: Teren.png Graphic file (type png)
+<use Teren.png>
+Package pdftex.def Info: Teren.png  used on input line 346.
+(pdftex.def)             Requested size: 433.61894pt x 433.61894pt.
+
+Overfull \hbox (7.22638pt too wide) in paragraph at lines 346--347
+ [] 
+ []
+
+
+
+[10]
+
 Package caption Warning: Unused \captionsetup[table] on input line 196.
 See the caption package documentation for explanation.
 
@@ -1223,21 +1238,19 @@ See the caption package documentation for explanation.
 
 
 
-[9 <./ProcenatPobjeda.png>]
-
-[10] (./paper.aux)
+[11 <./Teren.png>] (./paper.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
  ***********
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: E8DE4F2FC0C18586F6EC5D7C6272CBF7;2486.
+(rerunfilecheck)             Checksum: A6B2D58D277C1ACE9D48BDED220A4DBB;2538.
  ) 
 Here is how much of TeX's memory you used:
- 23511 strings out of 473329
- 365405 string characters out of 5723857
- 1151630 words of memory out of 5000000
- 45979 multiletter control sequences out of 15000+600000
+ 23552 strings out of 473329
+ 365900 string characters out of 5723857
+ 1150630 words of memory out of 5000000
+ 45998 multiletter control sequences out of 15000+600000
  994032 words of font info for 226 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,12n,131p,1002b,2134s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1246,10 +1259,10 @@ ular.pfb><c:/texlive/2024/texmf-dist/fonts/type1/adobe/sourceserifpro/SourceSer
 ifPro-Bold.pfb><c:/texlive/2024/texmf-dist/fonts/type1/adobe/sourceserifpro/Sou
 rceSerifPro-It.pfb><c:/texlive/2024/texmf-dist/fonts/type1/adobe/sourceserifpro
 /SourceSerifPro-Regular.pfb>
-Output written on paper.pdf (11 pages, 1042414 bytes).
+Output written on paper.pdf (12 pages, 1295933 bytes).
 PDF statistics:
- 314 PDF objects out of 1000 (max. 8388607)
- 283 compressed objects within 3 object streams
- 164 named destinations out of 1000 (max. 500000)
- 60036 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 345 PDF objects out of 1000 (max. 8388607)
+ 311 compressed objects within 4 object streams
+ 186 named destinations out of 1000 (max. 500000)
+ 60041 words of extra memory for PDF output out of 61914 (max. 10000000)
 

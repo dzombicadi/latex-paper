@@ -313,8 +313,37 @@ allStar_log %>%
     \includegraphics[scale=0.9]{ProcenatPobjeda.png}
 \end{center}
 
-\subsection{Nastavak...} 
 
+\subsection{Graf bacanja na koš} 
 
+Bolji pregled bacanja Joel Embidda na koš možemo pogledat sa kodom ispod. Iz grafa možemo zaključit da većina njegovih pogodaka dolazi sjeverno od koša te ispod koša. Pogoci sa strana mu nisu jača strana...
+
+\begin{lstlisting}[language=R]
+draw_court <- function() {
+  ggplot() +
+    # Court outline
+    geom_rect(aes(xmin = 0, xmax = 50, ymin = 0, ymax = 47), 
+              fill = NA, color = "black", size = 1.5) +
+    # Key area
+    geom_rect(aes(xmin = 17, xmax = 33, ymin = 0, ymax = 19), 
+              fill = NA, color = "black", size = 1.5) +
+    # Hoop
+    geom_point(aes(x = 25, y = 5.25), size = 4, color = "red") +
+    # Center circle
+    geom_circle(aes(x0 = 25, y0 = 47, r = 6), 
+                color = "black", size = 1.5)
+}
+
+court <- draw_court()
+court_plot <- court +
+  geom_point(data = shots, aes(x = x, y = y), color = "white", size = 3) +
+  labs(title = "Joel Embiid bacanja") +
+  theme_brooklyn99()
+
+\end{lstlisting}
+
+\begin{center}
+    \includegraphics[scale=1]{Teren.png}
+\end{center}
 
 \end{document}
